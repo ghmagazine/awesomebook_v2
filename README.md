@@ -72,4 +72,4 @@ https://gihyo.jp/book/2024/978-4-297-14138-7
 
 ## ライセンス
 
-TBD
+[LICENCE](https://github.com/ghmagazine/awesomebook_v2/blob/develop/LICENSE)
