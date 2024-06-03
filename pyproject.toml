@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "awesomebook-v2"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Shutaro Hashimoto <hashimoto.shutaro@gmail.com>"]
 readme = "README.md"
